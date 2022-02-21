@@ -17,10 +17,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<!-- ✔ Callme: ***OyePundir*** or ***TeamPlayer*** 😊 <br> -->
+✔ Callme: ***OyePundir*** or ***TeamPlayer*** 😊 <br> 
 ✔ A non CS/IT (by degree) guy doing **IT things...**<br>
 ✔ I’m currently learning **MERN Stack**<br>
-✔ I’m looking to collaborate with any **Open - Source Web Development projects**<br>
+✔ I’m looking to start my career as an entry-level **Frontend Developer** with a reputed firm driven by technology.<br>
 <!-- ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br> -->
 
