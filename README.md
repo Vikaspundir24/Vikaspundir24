@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Hello, I'm Vikas Pundir from the College of Technology, Pantnagar. <br>
+    Hello, I'm Vikas Pundir from College of Technology, Pantnagar. <br>
     <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
