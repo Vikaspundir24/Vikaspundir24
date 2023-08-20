@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vikas Pundir </h1>
-<h3 align="center">Problem Solver | Web Developer</h3>
+<h3 align="center">Software Developer | Frontend Developer</h3>
 
 
 
 
 <p align="center">
   <em>
-    Hello, I'm Vikas Pundir from College of Technology, Pantnagar. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
+    Recently Completed My B.Tech From College Of Technology Pantnagar <br>
+    <b>I am a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
 
@@ -54,4 +54,6 @@
 <br/>
 </p>
 <br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vikaspundir24)
 
