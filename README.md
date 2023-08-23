@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vikas Pundir </h1>
-<h3 align="center">Software Developer | Frontend Developer</h3>
+<h3 align="center">Problem Solver | Web Developer</h3>
 
 
 
