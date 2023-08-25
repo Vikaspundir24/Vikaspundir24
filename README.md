@@ -50,6 +50,7 @@
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vikaspundir24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vikaspundir24&show_icons=true&count_private=true&theme=algolia" height="175px" width="400px"/></a>
   &nbsp;
+	   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vikaspundir24&theme=react&line_height=40&hide=css"/> </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikaspundir24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Vikaspundir24" height="175px" width="400px"/>
 <br/>
 </p>
