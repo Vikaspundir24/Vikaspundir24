@@ -48,10 +48,10 @@
 <br>
 
   <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vikaspundir24 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vikaspundir24&show_icons=true&count_private=true&theme=algolia" height="175px" width="400px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vikaspundir24 Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vikaspundir24&show_icons=true&count_private=true&theme=algolia" height="175px" width="400px"/></a>
   &nbsp;
 	   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikaspundir24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Vikaspundir24" height="175px" width="400px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Vikaspundir24&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Vikaspundir24" height="175px" width="400px"/>
 <br/>
 </p>
 <br/>
