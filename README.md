@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspundir24&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspundir24" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently pursuing Mtech in **Computer Science and Engineering (Information Security)**
 
 - 📫 How to reach me **vikaspundiruser@gmail.com**
 
