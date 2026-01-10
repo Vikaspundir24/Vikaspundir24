@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 Pursuing **M.Tech in Computer Science & Engineering (Information Security)** at **NIT Jalandhar**
 - 💡 Strong foundation in **Frontend & Backend Web Development**
-- ⚙️ Comfortable building applications using **Java, JavaScript, Node.js, Express & MongoDB**
+- ⚙️ Comfortable building applications using **JavaScript, Node.js, Express & MongoDB**
 - 🧠 Active **problem solver (DSA in Java)** with focus on clarity and efficiency
 - 🔐 Interested in **security fundamentals, system understanding & backend architecture**
 - 🎥 Photographer / Filmmaker on weekends
